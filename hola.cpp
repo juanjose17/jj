@@ -2,12 +2,24 @@
 using namespace std;
 
 int main(int argc, char *argv[]) {
-	std::cout<<"hola mundo"<<endl;
-	cout<<"Francisco Salguero"<<endl;
-	int x=6;
-	int y=5;
-	int z=y*x;
-	cout <<z<< endl;
+	cout<<"hello world"<<endl;
+	cout<<"flipando"<<endl;
+	cout<<"Oh, crap"<<endl;
+	int q=1;
+	int w=2;
+	int e=3;
+	int r=4;
+	int t=5;
+	int y=6;
+	int u=7;
+	int i=8;
+	int o=9;
+	int f=q+o;
+	int l=w*t
+	string a="suma=";
+	string s="multiplicacion=";
+	cout<<a<<f<<endl;
+	cout <<s<<l<< endl;
 
 	return 0;
 }
