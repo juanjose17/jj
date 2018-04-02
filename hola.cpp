@@ -16,8 +16,8 @@ int main(int argc, char *argv[]) {
 	int o=9;
 	int f=q+o;
 	int l=w*t
-	string a="suma=";
-	string s="multiplicacion=";
+	string a="suma  ";
+	string s="multiplicacion   ";
 	cout<<a<<f<<endl;
 	cout <<s<<l<< endl;
 
